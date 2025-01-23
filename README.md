@@ -25,7 +25,7 @@
 2. **The Agent Framework**: Handles memory and logging for the agents.
 3. **Planning Agent**: Coordinates activities among all agents.
 4. **Scanner Agent**: Identifies promising deals from scraped data.
-6. **Specialist Agent**: Estimates prices for specific categories.
+6. **Specialist Agent**: Estimates prices for specific categories (LLM Model).
 7. **XGBoost Agent**: Estimates prices for specific categories.
 8. **Ensemble Agent**: Combines insights from multiple agents to finalize price estimates.
 9. **Messaging Agent**: Sends push notifications to users about exciting deals.
