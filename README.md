@@ -8,7 +8,7 @@
 
 - **Web Scraping Agents**: Agents are deployed to browse e-commerce websites and collect data on discounted products.  
 - **Pricing Model**: Uses a pricing model to evaluate the attractiveness of discovered deals.  
-- **User Interface**: Provides an interface for users to view and filter deals based on their preferences.  
+- **User Interface**: Provides an interface for users to view deals that have good prices through Gradio.  
 
 ## Installation
 
