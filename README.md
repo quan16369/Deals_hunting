@@ -23,7 +23,7 @@
      ```  
    - Activate the environment:  
      ```bash
-     conda activate deals_hunting
+     conda activate llms
      ```  
 
 ## Usage
@@ -40,5 +40,10 @@
 - `base_model/`: Includes the pricing model and data analysis tools.  
 - `data_curation/`: Tools for processing and cleaning the collected data.  
 - `fine_tuning/`: Methods for fine-tuning the model to improve performance.  
-- `testing/`: Includes tests to ensure system quality and accuracy. 
+- `testing/`: Includes tests to ensure system quality and accuracy.
+
+## Demo
+```bash
+python deals_hunting.py
+```
 ![image](https://github.com/user-attachments/assets/5d69d44b-4b6b-4dfc-be0b-3123feed5b28)
