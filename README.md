@@ -4,6 +4,14 @@
 
 **Deals Hunting** is a project designed to automate the process of finding and collecting the best online shopping deals. By leveraging software agents, the system can browse various e-commerce websites, identify discounted or special deal products, and aggregate this information for easy user access.
 
+## Tech Stack
+
+- **Python**: Core programming language used.
+- **Pushover**: For notifications on deals.
+- **HuggingFace**: Used for NLP tasks in processing product descriptions.
+- **Modal**: Cloud hosting solution.
+- **OpenAI**: For AI-powered analysis and recommendations.
+  
 ## Features
 
 - **Web Scraping Agents**: Agents are deployed to browse e-commerce websites and collect data on discounted products.  
