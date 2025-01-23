@@ -19,6 +19,7 @@
 - **User Interface**: Provides an interface for users to view deals that have good prices through Gradio.  
 
 ## Agent Workflows
+![image](https://github.com/user-attachments/assets/c910be65-bef4-4db9-bb31-fca8a6940d82)
 
 1. **The UI**: Built using Gradio for user interaction.
 2. **The Agent Framework**: Handles memory and logging for the agents.
