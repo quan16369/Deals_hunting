@@ -32,7 +32,7 @@
 ## Installation
 
 1. **System Requirements**:
-   - Python 3.8 or higher  
+   - Python 3.9 or higher  
    - Libraries listed in the `environment.yml` file  
 
 2. **Environment Setup**:
