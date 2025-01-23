@@ -32,7 +32,8 @@
   ```bash
   python deal_hunting.py
   ```  
-- Results will be saved in the `results/` directory as CSV files.  
+- Navigate to the provided Gradio link.
+- Interact with the user-friendly interface to view deals.
 
 ## Project Structure
 
