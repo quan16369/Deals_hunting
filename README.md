@@ -18,6 +18,16 @@
 - **Pricing Model**: Uses a pricing model to evaluate the attractiveness of discovered deals.  
 - **User Interface**: Provides an interface for users to view deals that have good prices through Gradio.  
 
+## Agent Workflows
+
+1. **The UI**: Built using Gradio for user interaction.
+2. **The Agent Framework**: Handles memory and logging for the agents.
+3. **Planning Agent**: Coordinates activities among all agents.
+4. **Scanner Agent**: Identifies promising deals from scraped data.
+6. **Specialist Agent**: Estimates prices for specific categories.
+7. **Ensemble Agent**: Combines insights from multiple agents to finalize price estimates.
+8. **Messaging Agent**: Sends push notifications to users about exciting deals.
+   
 ## Installation
 
 1. **System Requirements**:
